@@ -35,7 +35,7 @@ body{
 
 .menu ul li{
     list-style-type: none;
-    width: 8%;
+    width: 7%;
     float: left;
     padding-top: 10px;
 }
@@ -95,4 +95,5 @@ body{
     width: 3%;
     height: auto;
     float: right;
+    padding-right: 5px;
 }
